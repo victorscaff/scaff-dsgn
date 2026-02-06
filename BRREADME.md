@@ -8,7 +8,7 @@ Este documento apresenta a trajetória profissional, formação e habilidades de
 ## 👤 Perfil
 Sou um designer que une **experiência em motion, gráfico e UX/UI**, atualmente focado em design centrado no usuário após concluir a **Especialização em UX Design do Google**. Minha trajetória inclui trabalho com marcas internacionais, mercado editorial, publicidade e um estágio recente em UX/UI com ferramentas de análise geoespacial para agronegócio sustentável.
 
-**Portfólio:** [scaff.design/](https://www.behance.net/victorscaff)  
+**Portfólio:** [scaff.dsgn/](https://www.behance.net/victorscaff)  
 **Localização:** Curitiba - PR, Brasil  
 **Contato:** scaff.dsgn@gmail.com | +55 41 99899 4896  
 **LinkedIn:** [linkedin.com/in/victor-scaff-moura](https://linkedin.com/in/victor-scaff-moura)
