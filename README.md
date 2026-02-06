@@ -8,7 +8,7 @@ This document outlines the professional experience, education, and skills of **V
 ## 👤 Profile
 I am a designer blending **motion, graphic, and UX/UI expertise**, currently focused on user-centered design after completing the **Google UX Design Specialization**. My background includes work with international brands, publishing, advertising, and a recent UX/UI internship in geospatial analysis tools for sustainable agribusiness.
 
-**Portfolio:** [scaff.design/](https://www.linkedin.com/in/victor-scaff-moura/?locale=en_US)
+**Portfolio:** [scaff.dsgn/]((https://www.behance.net/victorscaff)
 **Location:** Curitiba - PR, Brazil  
 **Contact:** scaff.dsgn@gmail.com | +55 41 99899 4896  
 **LinkedIn:** [linkedin.com/in/victor-scaff-moura](https://linkedin.com/in/victor-scaff-moura)
